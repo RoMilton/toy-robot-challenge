@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toy-robot-challenge/static/css/main.fe709efc.css",
+    "main.js": "/toy-robot-challenge/static/js/main.8c5e862d.js",
+    "index.html": "/toy-robot-challenge/index.html",
+    "main.fe709efc.css.map": "/toy-robot-challenge/static/css/main.fe709efc.css.map",
+    "main.8c5e862d.js.map": "/toy-robot-challenge/static/js/main.8c5e862d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe709efc.css",
+    "static/js/main.8c5e862d.js"
+  ]
+}
