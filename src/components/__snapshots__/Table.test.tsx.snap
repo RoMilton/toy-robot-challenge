@@ -1,0 +1,574 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table renders Table with robot facing EAST 1`] = `
+<DocumentFragment>
+  <div
+    class="table"
+  >
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    >
+      <img
+        alt="robot"
+        class="table-robot"
+        src="arrow.png"
+        style="transform: rotate(90deg);"
+      />
+    </div>
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Table renders Table with robot facing NORTH 1`] = `
+<DocumentFragment>
+  <div
+    class="table"
+  >
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    >
+      <img
+        alt="robot"
+        class="table-robot"
+        src="arrow.png"
+        style="transform: rotate(0deg);"
+      />
+    </div>
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Table renders Table with robot facing SOUTH 1`] = `
+<DocumentFragment>
+  <div
+    class="table"
+  >
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    >
+      <img
+        alt="robot"
+        class="table-robot"
+        src="arrow.png"
+        style="transform: rotate(180deg);"
+      />
+    </div>
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Table renders Table with robot facing WEST 1`] = `
+<DocumentFragment>
+  <div
+    class="table"
+  >
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    >
+      <img
+        alt="robot"
+        class="table-robot"
+        src="arrow.png"
+        style="transform: rotate(270deg);"
+      />
+    </div>
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Table renders with no robot placement 1`] = `
+<DocumentFragment>
+  <div
+    class="table"
+  >
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+    <div
+      class="table-cell"
+      style="flex-basis: 20%;"
+    />
+  </div>
+</DocumentFragment>
+`;

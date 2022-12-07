@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <h1>
+      Robot Challenge
+    </h1>
+    <div
+      class="App-inner"
+    >
+      <div
+        class="table"
+      >
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+        <div
+          class="table-cell"
+          style="flex-basis: 20%;"
+        />
+      </div>
+      <form>
+        <input
+          aria-label="Type command"
+          class="input"
+          name="command"
+          placeholder="Type command"
+          type="text"
+          value=""
+        />
+        <button
+          type="submit"
+        >
+          Enter
+        </button>
+      </form>
+      <div
+        class="report"
+      />
+    </div>
+    <div
+      class="sample"
+    >
+      Try commands: 
+      <br />
+      PLACE 0,0,NORTH 
+      <br />
+      MOVE 
+      <br />
+      REPORT 
+      <br />
+    </div>
+  </div>
+</DocumentFragment>
+`;
