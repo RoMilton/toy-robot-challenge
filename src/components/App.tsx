@@ -67,6 +67,7 @@ function App() {
     const [command, ...commandArgs] = parts;
     if (!Object.values(Command).includes(command as Command)) {
       setError(Error.CommandNotFound);
+      return;
     }
 
     if (command !== Command.Place && coords === undefined) {
